@@ -1,0 +1,14 @@
+{
+  "name": "hello-active-api",
+  "version": "1.0.0",
+  "description": "a very basic hello world demonstrating https://www.npmjs.com/package/active",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "!marion fitts",
+  "license": "WTFPL",
+  "dependencies": {
+    "active": "^1.0.6"
+  }
+}

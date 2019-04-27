@@ -1,0 +1,8 @@
+{
+    "listenPort": 719,
+    "hostName": "localhost",
+
+    "useStrictRouting": false,
+    "useCors": false,
+    "useDebug": true
+}
